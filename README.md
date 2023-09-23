@@ -1,4 +1,4 @@
-# KVMQ
+# KVFS
 
 [![deno doc](https://doc.deno.land/badge.svg)](https://deno.land/x/kvfs/mod.ts)
 
